@@ -1,0 +1,12 @@
+# Core dependencies
+react==18.2.0
+react-dom==18.2.0
+
+# State management and routing
+react-router-dom==6.14.0
+
+# Internationalization
+react-intl==6.4.4
+
+# Speech synthesis
+react-speech-kit==3.0.1
